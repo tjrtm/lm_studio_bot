@@ -6,8 +6,7 @@ This repository contains a Python application designed as a voice assistant usin
 
 - **Text-to-Speech**: Converts text to spoken voice responses.
 - **Speech Recognition**: Listens and recognizes spoken words to text.
-- **Interaction with OpenAI's Language Model**: Sends recognized speech to an OpenAI model for processing and receives a response.
-- **Customizable Responses**: Ability to change the model and responses through an easy-to-use interface.
+- **Interaction with Offline Language Model**: Sends recognized speech to an LM-Studio model for processing and receives a response.
 
 ## Prerequisites
 
