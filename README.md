@@ -12,6 +12,8 @@ This repository contains a Python application designed as a voice assistant usin
 
 Before you run the assistant, ensure you have the following installed:
 
+LM-Studio, https://lmstudio.ai/
+
 - Python 3.x
 - pyttsx3
 - sounddevice
