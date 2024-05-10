@@ -1,4 +1,4 @@
-# Python Voice Assistant
+# Python Voice Assistant using LM-studio
 
 This repository contains a Python application designed as a voice assistant using various libraries to handle speech-to-text, text-to-speech, and machine learning capabilities. It's built with the intention of demonstrating a basic interactive voice-based system.
 
